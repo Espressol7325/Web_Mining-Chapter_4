@@ -1,7 +1,7 @@
 giới_thiệu
 quán
 hôm_qua
-foody
+food
 gọi
 chiều_hôm
 chiều_hôm
@@ -12,12 +12,12 @@ trả_lời
 thiết_nghĩ
 quán
 mấy
-giao
+gico
 hàng
 tận
 khách_hàng
 gọi
-giao
+gico
 tiêu_đề
 chỗ
 gọi

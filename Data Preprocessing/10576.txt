@@ -1,10 +1,10 @@
-không_gian
+không_gain
 qa
 n
 co
 ve
 hơi
-nho
+no
 mi
 nh
 đi
@@ -24,11 +24,11 @@ p
 đc
 chi
 ng
-qen
+en
 chi
 cu
 g
-xog
+log
 r
 nhươ
 ng
@@ -41,7 +41,7 @@ g
 đc
 mi
 nh
-khuyên
+theyên
 ca
 c
 n

@@ -4,8 +4,8 @@ viết
 review
 đọc
 review
-foody
-khen
+food
+when
 món
 kem
 chậu
@@ -15,7 +15,7 @@ món
 kem
 chậu
 serve
-ngon
+non
 đông
 chảy
 chảy
@@ -25,7 +25,7 @@ cực_kì
 giá
 kphần
 mùi
-choco
+coco
 giá
 ok
 chậu
@@ -42,7 +42,7 @@ ko
 ko
 nv
 menu
-xong
+song
 đứng
 yên
 đợi
@@ -70,9 +70,9 @@ hơi
 menu
 hơi
 kĩ
-cung
+sung
 tốn
-thgian
+than
 lau
 bàn
 mà_còn
@@ -99,7 +99,7 @@ mà_còn
 nhăn
 nhăn
 tiền
-xong
+song
 đợi
 thối
 tiền
@@ -116,7 +116,7 @@ thối
 tiền
 thì_có
 kia
-nói_chuyện
+nói_chunện
 nạt
 rõ_ràng
 k

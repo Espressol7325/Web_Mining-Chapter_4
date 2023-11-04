@@ -2,7 +2,7 @@ tình_hình
 bận
 định
 cơm
-giao
+gico
 chỗ
 chỗ
 m
@@ -13,7 +13,7 @@ trực
 dt
 bảo
 k
-giao
+gico
 gọi
 trả_lời
 ghé

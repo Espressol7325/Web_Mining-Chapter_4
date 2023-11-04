@@ -3,18 +3,18 @@ hôm_nay
 bò
 nướng
 d
-cát_linh
-xong
+cát_link
+song
 tạt
 uống
 miếng
 trà
 đào
-không_gian
+không_gain
 rộng_rãi
 ngoài_trời
 mưa
-xong
+song
 thoáng
 mát
 gu
@@ -26,7 +26,7 @@ chút
 thoải_mái
 đi_về
 nóng
-thói_quen
+thói_que
 vé
 xe
 nhân_viên
@@ -50,7 +50,7 @@ hai
 vé
 nhân_viên
 bận
-ghi
+hi
 vé
 xe
 cầm
@@ -94,7 +94,7 @@ bảo
 vé
 cầm
 vé
-ghi
+hi
 vé
 khớp
 cất
@@ -119,7 +119,7 @@ trà
 vé
 chạy
 chỗ
-ghi
+hi
 vé
 kệ
 mọe
@@ -148,7 +148,7 @@ xe
 đi
 trình_bày
 highlands
-cung_cấp
+sung_cấp
 dịch_vụ
 thưởng_thức
 uống
@@ -184,7 +184,7 @@ kiểm_tra
 vé
 yên
 khớp
-ghi
+hi
 tuấn
 gắt
 mặt
@@ -196,7 +196,7 @@ xe
 xin_lỗi
 đóng
 vai
-csgt
+cst
 bảo
 đợi
 giải_quyết
@@ -212,7 +212,7 @@ quán
 vé
 sự_tình
 tuấn
-vô_duyên
+vô_dmyên
 ảnh_hưởng
 khách_hàng
 highlands
@@ -234,9 +234,9 @@ căng_thẳng
 security
 gàn
 tuấn
-nói_chuyện
+nói_chunện
 bọn
-nói_chuyện
+nói_chunện
 nhân_viên
 thu
 vé
@@ -245,7 +245,7 @@ bá
 cổ
 bảo
 nãy
-ghi
+hi
 đấy
 nhầm
 từ_ngữ
@@ -327,7 +327,7 @@ bảo
 thoải_mái
 báo
 quản_lý
-con_trai
+con_train
 cục_tính
 tí
 hôm_nay

@@ -7,7 +7,7 @@ nhân_viên
 xếp
 chỗ
 tự_do
-vui
+vi
 lắm
 món
 ăn_ở
@@ -15,13 +15,13 @@ giá
 hơi
 lắm
 gọi
-bingsu
+brings
 kem
-ngon
+non
 giá
 k
-thử_nghiệm
-không_gian
+thử_nghệm
+không_gain
 đẹp
 ghé
 thử

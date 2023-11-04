@@ -2,7 +2,7 @@ hôm_nay
 chờ
 đồ_ăn
 món
-xong
+song
 kêu
 lầ
 nhân_viên
@@ -13,7 +13,7 @@ mãi
 giở
 cùn
 đòi
-thanh_toán
+than_toán
 cốc
 trà
 đá

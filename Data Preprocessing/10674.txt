@@ -1,5 +1,5 @@
-phong_cách
-phong_cách
+phone_cách
+phone_cách
 phục_vụ
 tệ
 gọi
@@ -21,7 +21,7 @@ chẳng
 đôi_co
 ngờ
 quán
-ghi
+hi
 nhận_thức
 uống
 tệ
@@ -36,7 +36,7 @@ thức
 uống
 mắc
 bình_thường
-không_gian
+không_gain
 thiết_kế
 hợp_lí
 lắm

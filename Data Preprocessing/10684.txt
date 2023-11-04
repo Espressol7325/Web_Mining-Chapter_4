@@ -1,10 +1,10 @@
 review
-khen
+when
 tiệm
 hôm_nay
 chê
 hôm_nay
-mua
+ma
 bánh
 su
 que
@@ -60,7 +60,7 @@ vị
 bánh
 vốn
 ko
-ngon
+non
 bánh
 su
 vỏ
@@ -71,7 +71,7 @@ béo
 ngậy
 kiểu
 ko
-ngon
+non
 vị
 chocolate
 ko
@@ -80,7 +80,7 @@ bánh
 su
 que
 kem
-vani
+van
 kcái
-savoiré
-ngon
+savioré
+non

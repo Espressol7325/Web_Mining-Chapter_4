@@ -1,5 +1,5 @@
 đông
-hok
+how
 món
 ngó
 quài
@@ -14,7 +14,7 @@ lăng_xăng
 tất_bật
 lắm
 mặc_dù
-không_gian
+không_gain
 quán
 bé_tẹo
 tèo
@@ -29,7 +29,7 @@ liền
 chen_chúc
 trại
 tị_nạn
-hok
+how
 thoải_mái
 j
 k

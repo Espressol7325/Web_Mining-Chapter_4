@@ -1,12 +1,12 @@
 hai
 mời
-khai_trương
+khan_trương
 đi
 nhạc
 đánh
 dở
 hứng
-không_gian
+không_gain
 tương_đối
 k
 k
@@ -15,7 +15,7 @@ tạm
 k
 đặc_sắc
 nhân_viên
-nhanh_nhẹn
+than_nhẹn
 để_ý
 vô
 pub
@@ -30,5 +30,5 @@ chỗ
 bề_ngoài
 sang_trọng
 sức
-thuyết_phục
+theyết_phục
 khách_hàng

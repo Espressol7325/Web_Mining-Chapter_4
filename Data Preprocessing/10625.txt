@@ -1,6 +1,6 @@
 hot
 bơ
-matcha
+match
 uống
 y_chang
 sinh_tố
@@ -8,9 +8,9 @@ bơ
 bình_thường
 bữa
 combo
-chai
+chain
 bơ
-matcha
+match
 đậu_nành
 nha
 đam
@@ -27,5 +27,5 @@ bơ
 tạm
 đc
 cộng
-chai
+chain
 đẹp

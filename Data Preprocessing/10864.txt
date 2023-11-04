@@ -5,12 +5,12 @@ hôm_qua
 nv
 giới_thiệu
 món
-khoai_tây
+hoax_tây
 nướng
 ham_hố
 gọi
 thử
-khoai
+hoax
 nướng
 tổng_hợp
 k
@@ -21,7 +21,7 @@ vành
 lớp
 bề_mặt
 khét
-đen_thui
+đen_thus
 nv
 món
 khét
@@ -43,7 +43,7 @@ mùi
 khét
 miếng
 đầu
-nguyên
+guyên
 dĩa
 đi_về
 liền
@@ -52,7 +52,7 @@ dở
 mắc
 k
 ít_ỏi
-jèeeeeeee
+jèeeeeee
 thất_vọng
 tràn_trề
 mấy
@@ -61,8 +61,8 @@ mấy
 món
 ham
 nha
-khoai
-khoai
+hoax
+hoax
 nướng
 bủm
 bủm

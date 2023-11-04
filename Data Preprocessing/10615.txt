@@ -5,7 +5,7 @@ ghé
 quán
 uống
 thử
-thay_vì
+that_vì
 quán
 thalasa
 kế
@@ -44,7 +44,7 @@ ly
 jumbo
 k
 menu
-ghi
+hi
 áp_dụng
 cảm_giác
 thành_thật
@@ -65,7 +65,7 @@ tối
 hôm_qua
 mặc_dù
 đánh
-nghi
+ngh
 tác_dụng
 đường
 hoá_học
@@ -76,5 +76,5 @@ sài_gòn
 vĩnh_biệt
 quán
 tối_qua
-trải_nghiệm
+trải_nghệm
 tiếc

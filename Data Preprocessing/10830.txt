@@ -28,7 +28,7 @@ hỉu
 miếng
 ngán
 r
-khoai_tây
+hoax_tây
 cắt
 miếng
 to
@@ -38,7 +38,7 @@ ngán
 lun
 đầu
 thất_vọng
-không_gian
+không_gain
 quán
 ko
 rộng
@@ -46,7 +46,7 @@ lắm
 trang_trí
 đơn_giản
 bt
-thoi
+thon
 nhân_viên
 thân_thiện
 đc

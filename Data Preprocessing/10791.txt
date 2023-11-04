@@ -45,7 +45,7 @@ uống
 thạch
 củ
 năng
-ngon
+non
 trà
 sữa
 ko
@@ -59,7 +59,7 @@ vị
 trà
 sữa
 hơi
-ngon
+non
 vị
 táo
 đậm_đà
@@ -84,7 +84,7 @@ kêu
 bánh_tráng
 trộn
 bánh_tráng
-ngon
+non
 chút
 bơ
 sa
@@ -93,7 +93,7 @@ trứng
 cút
 sợi
 bánh_tráng
-nguyên
+guyên
 ko
 món
 bánh_tráng

@@ -1,5 +1,5 @@
 bánh
-ngon
+non
 bột
 xốp
 mềm
@@ -8,7 +8,7 @@ có_nhân
 mặn
 xúc_xích
 chà
-pate
+page
 kết_hợp
 phô_mai
 mứt
@@ -34,7 +34,7 @@ hàng
 tận
 trở_lên
 chỗ
-oke
+one
 đa_phần
 chủ
 quán

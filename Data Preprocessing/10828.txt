@@ -1,5 +1,5 @@
 giá
-nganh
+ndash
 tiệm
 fastfood
 but
@@ -10,10 +10,10 @@ tí_ti
 nhân_viên
 k
 tư_vấn
-khuyến_mãi
+theyến_mãi
 j
 món
-ngon
+non
 phục_vụ
 nhân_viên
 bực_bội

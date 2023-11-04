@@ -42,7 +42,7 @@ nghìn
 choáng
 bé
 đi
-xong
+song
 thu
 tiền
 tận
@@ -50,11 +50,11 @@ nghìn
 mấy
 giây
 định_thần
-xong
+song
 rút
 thấy_bà
 tiền
-xong
+song
 chạy
 chỗ
 quán
@@ -97,7 +97,7 @@ mặt
 quán
 đừng
 tưởng
-ngon
+non
 quyền
 lừa_dối
 khách_hàng

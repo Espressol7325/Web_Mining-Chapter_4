@@ -1,6 +1,6 @@
 quán
 nhân_viên
-xem_thường
+em_thường
 đi
 vs
 mom
@@ -8,7 +8,7 @@ quán
 gởi
 xe
 mom
-minh
+min
 nhân_viên
 chỗ
 ko
@@ -16,7 +16,7 @@ gửi
 xe
 phán
 câu
-xanh_rờn
+anh_rờn
 chỗ
 quán
 phục_vụ

@@ -1,5 +1,5 @@
 gọi
-matcha
+match
 thai
 milk
 tea
@@ -8,7 +8,7 @@ jelly
 món
 nổi_tiếng
 kết_quả
-matcha
+match
 uống
 vị
 hơi

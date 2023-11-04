@@ -10,13 +10,13 @@ quên
 gọi
 món
 d_quán
-không_gian
+không_gain
 đẹp
 thoải_mái
 đông
 ồn_ào
 thích_hợp
-trò_chuyện
+trò_chunện
 bàn_tán
 sôi_nổi
 chỗ
@@ -32,7 +32,7 @@ uống
 cafe
 rẻ
 mắc
-ngon
+non
 ly
 uống
 thạch

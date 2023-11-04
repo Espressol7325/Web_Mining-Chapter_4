@@ -6,9 +6,9 @@ tom
 cảm_nhận
 hương
 cà_phê
-thoang_thoảng
+than_thoảng
 tiếp
-không_gian
+không_gain
 tương_đối
 yên_tĩnh
 chút
@@ -16,9 +16,9 @@ hoài_cổ
 mặc_dù
 học
 tài_chính
-khu
+hu
 quán
-không_gian
+không_gain
 tom
 ok
 gác_xép
@@ -41,7 +41,7 @@ căn_bản
 đi
 uống
 chỗ
-ngon
+non
 tom
 nhân_viên
 phục_vụ

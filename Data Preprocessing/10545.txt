@@ -1,7 +1,7 @@
 dàn
-âm_thanh
+âm_than
 ko
 phục_vụ
 xe
 ko
-vui_vẻ
+vi_vẻ

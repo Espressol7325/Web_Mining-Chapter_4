@@ -1,14 +1,14 @@
 kem
 chậu
-ngon
+non
 tan
 hơi
 bánh
 bình_thường
-không_gian
+không_gain
 quán
 ổn
-duy_nhất
+dmy_nhất
 hài_lòng
 nhân_viên
 châm
@@ -23,7 +23,7 @@ lắm
 cửa
 châm
 nhân_viên
-ghi
+hi
 order
 đem
 đồ_ăn
@@ -32,7 +32,7 @@ quầy
 tiền
 mãi
 kem
-xong
+song
 khát
 vô_cùng
 cố_ý
@@ -49,7 +49,7 @@ mấy
 nhân_viên
 đứng
 quây
-nói_chuyện
+nói_chunện
 tụ_tập
 bàn
 ko
@@ -73,7 +73,7 @@ bánh
 đi
 vô
 bánh
-ghi
+hi
 mấy
 bánh
 kia

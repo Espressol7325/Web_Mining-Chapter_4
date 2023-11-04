@@ -4,10 +4,10 @@ review
 hôm
 gọi
 cơm
-bbq
+bb
 sườn
 ko
-ngon
+non
 cảm_giác
 sườn
 đc
@@ -18,8 +18,8 @@ rẻ_tiền
 ghê
 gọi
 đồ
-khen
-ngon
+when
+non
 mặc_dù
 hơi
 ngấy

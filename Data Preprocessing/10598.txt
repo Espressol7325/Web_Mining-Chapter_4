@@ -1,6 +1,6 @@
 quán
 đồ_ăn
-ngon
+non
 vừa_miệng
 hợp_khẩu
 vị
@@ -22,6 +22,6 @@ lắm
 í
 chúc
 quán
-mua
+ma
 may
 đắt

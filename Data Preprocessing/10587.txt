@@ -1,7 +1,7 @@
 chỗ
 ăn_ở
 cơ_sở
-nguyễn_trường_tộ
+guyễn_trường_tộ
 hàng
 k
 đc
@@ -25,7 +25,7 @@ cx
 cơ_sở
 cx
 hơi
-khuất
+huất
 k
 chỉ_dẫn
 may
@@ -38,7 +38,7 @@ k
 chính_xác
 xét
 chất_lượng
-ngon
-mong
+non
+song
 k
 bực_mình

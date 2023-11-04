@@ -1,5 +1,5 @@
 đi
-ngang
+gang
 quán
 đông
 tò_mò
@@ -39,13 +39,13 @@ tí
 trop
 b
 cầu_kỳ
-ngon
+non
 gấp
 mấy
 k
-mua
+ma
 hộp
 kem
-vinamik
+vitamin
 có_lý
 blacklist

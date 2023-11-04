@@ -1,5 +1,5 @@
 đọc
-foody
+food
 chê
 ráng
 thử
@@ -22,7 +22,7 @@ nước_lã
 đường
 m
 gọi
-nem_chua
+nem_cha
 rán
 k
 bột

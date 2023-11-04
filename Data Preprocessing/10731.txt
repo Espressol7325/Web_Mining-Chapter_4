@@ -1,8 +1,8 @@
 giá_cả
 mắc
 chỗ
-xung_quanh
-không_gian
+sung_quant
+không_gain
 bí
 chẳng
 phục_vụ
@@ -14,9 +14,9 @@ dai
 mùi
 trà
 sữa
-ngon
+non
 lắm
 quán
 nghỉ
-thay_thế
+that_thế
 kem_cuộn_minions

@@ -40,7 +40,7 @@ ng
 nhường
 chỗ
 nha
-dzu
+du
 ah
 tui
 đi
@@ -54,7 +54,7 @@ món
 bực
 tập
 order
-xong
+song
 chờ
 cổ
 mấy
@@ -73,7 +73,7 @@ gọi
 than
 bực
 tập
-loay_hoay
+loan_hoax
 nướng
 j
 gắp

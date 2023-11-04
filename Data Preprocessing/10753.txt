@@ -36,7 +36,7 @@ p
 bưng
 thịt
 rau
-panchan
+cancha
 nước_chấm
 cứ_thế
 chờ
@@ -48,10 +48,10 @@ tiếp
 đồ_ăn
 bình_thường
 k
-panchan
+cancha
 tokbokki
 k
-ngon
+non
 chả
 mấy
 miếng

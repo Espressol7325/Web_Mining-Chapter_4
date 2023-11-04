@@ -10,7 +10,7 @@ chiên
 ổn
 phô_mai
 que
-nem_chua
+nem_cha
 rán
 bột
 ớn
@@ -19,8 +19,8 @@ bơ
 cứng
 dai
 bơ
-nhai
-nhai
+hai
+hai
 kẹo_cao_su
 í
 gan
@@ -34,7 +34,7 @@ phục_vụ
 tệ
 quán
 vắng
-không_gian
+không_gain
 chiên
 nướng
 mùi

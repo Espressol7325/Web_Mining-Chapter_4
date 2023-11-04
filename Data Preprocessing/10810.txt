@@ -1,4 +1,4 @@
-khu
+hu
 toàn
 chè
 kiểu
@@ -23,7 +23,7 @@ gọi
 món
 k
 giá
-okie
+skie
 chất_lượng
 bình_thường
 hơi

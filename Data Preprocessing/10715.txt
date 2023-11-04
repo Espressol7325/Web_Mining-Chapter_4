@@ -28,7 +28,7 @@ chân
 k
 ngâm
 chân
-suy
+sup
 trừ
 đi
 k
@@ -67,8 +67,8 @@ sữa
 đá
 uống
 tạm
-ngon
-không_gian
+non
+không_gain
 đi
 hố
 vòng
@@ -76,7 +76,7 @@ quán
 quán
 uống
 thử
-khuyên
+theyên
 lầu
 lầu
 cực_kì
@@ -88,6 +88,6 @@ hồ
 to
 ngâm
 ng
-chia
+china
 ng
 hồ

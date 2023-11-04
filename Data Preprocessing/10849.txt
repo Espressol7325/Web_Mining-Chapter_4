@@ -4,9 +4,9 @@ complain
 hi_vọng
 quản_lý
 nhà_hàng
-mua
+ma
 voucher
-hotdeal
+hotel
 ghé
 thử
 đi
@@ -19,7 +19,7 @@ xài
 phiếu
 xài
 phiếu
-kiu
+ki
 kiếm
 đi
 đi
@@ -43,7 +43,7 @@ lắm
 ráng
 nhân_viên
 phiếu
-xong
+song
 đứng
 dọn
 bàn

@@ -16,7 +16,7 @@ nì
 bình_thường
 mí
 xe_đẩy
-thui
+thus
 hà
 món
 bánh_tráng
@@ -26,7 +26,7 @@ bt
 giòn
 lắm
 cực_kỳ
-ngon
+non
 kem
 wa
 ko
@@ -36,12 +36,12 @@ trà
 đá
 nha
 wán
-thui
+thus
 nhạc
 hơi
 tào_lao
 trang_trí
-linh_tinh
+link_tiny
 dễ_thương
 hợp
 mí
@@ -66,7 +66,7 @@ cúi
 bt
 đem
 mốc
-hix
+his
 hơi
 gê
 hôg

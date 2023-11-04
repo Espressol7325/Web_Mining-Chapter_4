@@ -11,9 +11,9 @@ thành_phố
 bình
 mát
 xả
-chanh
+chan
 uống
-ngon
+non
 gọi
 diã
 nướng
@@ -50,7 +50,7 @@ thịt
 bò
 mắc
 điã
-kimchi
+ichi
 củ_cải
 muối
 trộn
@@ -70,8 +70,8 @@ cộng
 phí
 vat
 hóa_đơn
-thanh_toán
-xong
+than_toán
+song
 mùnh
 hề
 đựơc
@@ -91,7 +91,7 @@ sọan
 đồ_ăn
 ném
 mặt
-kimchi
+ichi
 khó_chịu
 lườm
 r

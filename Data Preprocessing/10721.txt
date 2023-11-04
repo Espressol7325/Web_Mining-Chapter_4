@@ -18,14 +18,14 @@ quán
 mùa_đông
 quán
 có_giá
-treo
+tree
 áo_khoác
 hàng
 kiểu
 để_ý
 lắm
 phục_vụ
-nhanh_nhẹn
+than_nhẹn
 cộng
 đồ_ăn
 thì_có
@@ -41,7 +41,7 @@ gà
 rút
 xương
 ko
-ngon
+non
 phở
 sốt
 chấm
@@ -54,7 +54,7 @@ lạ
 gà
 món
 chủ_đạo
-nhg
+ng
 gà
 bở
 ko
@@ -71,7 +71,7 @@ giá
 rơi
 kmón
 đắt
-xong
+song
 no
 xài
 e

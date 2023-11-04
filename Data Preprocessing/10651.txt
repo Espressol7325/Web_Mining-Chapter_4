@@ -4,7 +4,7 @@ bon_chen
 thử
 kết_quả
 dở
-mong_muốn
+song_muốn
 ngã
 gởi
 xe
@@ -13,14 +13,14 @@ thẻ
 vỉa_hè
 công_an
 hốt
-xong
-phin
-không_gian
+song
+pain
+không_gain
 quán
 vỉa_hè
 quán
 decor
-không_gian
+không_gain
 ngộp
 chỗ
 kế
@@ -84,7 +84,7 @@ dừa
 hút
 rột
 trơn
-chua_lè
+cha_lè
 giá_cả
 k
 thử

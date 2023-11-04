@@ -1,5 +1,5 @@
-ngon
-ngon
+non
+non
 dở
 dở
 sốt
@@ -23,7 +23,7 @@ củi
 túi
 vàng
 bao
-nilong
+long
 tái_chế
 khăn
 giấy

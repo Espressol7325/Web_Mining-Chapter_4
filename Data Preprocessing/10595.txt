@@ -1,6 +1,6 @@
 hoài
 chẳng
-ngon
+non
 bàn
 món
 rôi
@@ -14,7 +14,7 @@ mềm
 lủn
 xào
 cực
-nhiu
+nhi
 dầu
 chả_giò
 hải_sản
@@ -29,7 +29,7 @@ cá
 lạnh
 an
 cảm_xúc
-luoon
+luton
 bò
 lúc_lắc
 bò
@@ -43,7 +43,7 @@ nưong
 món
 quán
 siêu
-kinh_dị
+kind_dị
 ko
 ấn_tượng
 mấy

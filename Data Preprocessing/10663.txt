@@ -1,5 +1,5 @@
 đi
-ngang
+gang
 quán
 đông
 hiệu_ứng
@@ -7,7 +7,7 @@ hiệu_ứng
 đông
 quyết_định
 thử
-duy_nhất
+dmy_nhất
 kem
 dừa
 kèm
@@ -16,7 +16,7 @@ topping
 bắp
 hạt
 xôi
-ngon
+non
 uống
 dừa
 thơm
@@ -24,4 +24,4 @@ thơm
 đựng
 hũ
 bé_bé
-xinh_xinh
+inh_inh

@@ -8,14 +8,14 @@ nam
 lầu
 chỗ
 đi
-cầu_thang
+cầu_than
 dừng
 ngoái
 đầu
 mấy
 gửi
 xe
-xong
+song
 tiếp
 thì_có
 nhân_viên

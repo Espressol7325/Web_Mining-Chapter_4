@@ -1,13 +1,13 @@
 đi
-ngang
+gang
 đông
 ghé
 thử
 bình_thường
 quán
-duy_nhất
+dmy_nhất
 k
-vui_miệng
+vi_miệng
 kem
 dừa
 thái
@@ -20,7 +20,7 @@ vỉa_hè
 bụi
 nóng
 nhân_viên
-nhanh_nhẹn
+than_nhẹn
 chân
 dừa
 liên_tục
@@ -33,5 +33,5 @@ mắc
 mở_rộng
 chỗ
 đàng_hoàng
-khen
-ngon
+when
+non

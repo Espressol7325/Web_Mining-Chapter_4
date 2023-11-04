@@ -1,11 +1,11 @@
 đồ_ăn
-ngon
+non
 trừ
 món
 hơi
 kì
 ko
-quen
+que
 mì
 lạnh
 giá_cả
@@ -19,8 +19,8 @@ giá
 hấp_dẫn
 thịt
 nướng
-ngon
-không_gian
+non
+không_gain
 hơi
 chật
 chỗ

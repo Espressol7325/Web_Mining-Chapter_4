@@ -1,5 +1,5 @@
 món
-ngon
+non
 chậm_chạp
 đợi
 tiếng
@@ -25,12 +25,12 @@ bò
 nhân_viên
 ko
 thèm
-qan
+an
 tâm
 check
 in
 km
 chả
 thèm
-khuyến_mãi
+theyến_mãi
 lun

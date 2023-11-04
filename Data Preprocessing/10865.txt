@@ -1,6 +1,6 @@
 ng
-ngon
-hnay
+non
+hay
 định
 ghé
 thử
@@ -17,7 +17,7 @@ bv
 gửi
 xe
 đo
-xong
+song
 xe
 trơ_mắt
 tụi
@@ -25,7 +25,7 @@ tụi
 bây
 k
 tiền
-loay_hoay
+loan_hoax
 hồi
 quyết_định
 cow

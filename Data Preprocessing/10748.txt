@@ -21,7 +21,7 @@ quản_lý
 tệ
 nhân_viên
 món
-ngon
+non
 đập_đập
 vô
 menu

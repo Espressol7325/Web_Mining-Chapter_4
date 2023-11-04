@@ -4,7 +4,7 @@ quán
 thức
 uống
 chê
-ngon
+non
 giá
 rẻ
 thức
@@ -42,14 +42,14 @@ k
 uống
 bãi
 xe
-giang_hồ
+giant_hồ
 đòi
 nợ
 mướn
 đầu
 đi
 thì_có
-ghi
+hi
 cũg
 dễ_thương
 k
@@ -65,8 +65,8 @@ xe_tay
 ga
 đi
 sh
-vespa
-ngta
+espa
+nota
 k
 hơi
 lạ
@@ -89,7 +89,7 @@ chút_xíu
 thôi_thì
 đi
 bi
-gssu
+gss
 lựa
 qán
 đi

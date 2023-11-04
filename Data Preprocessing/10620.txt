@@ -2,7 +2,7 @@ cơm
 gà
 bình_thường
 ko
-ngon
+non
 a
 hải
 cơm
@@ -29,5 +29,5 @@ xé
 giá
 k
 mắc
-ngon
+non
 hợp_lí

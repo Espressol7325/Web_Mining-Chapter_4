@@ -1,7 +1,7 @@
 hôm
 đi
 sinh_nhật
-gogi_biên_hòa
+oggi_biên_hòa
 đi
 tổng_cộng
 tự_phục_vụ
@@ -21,8 +21,8 @@ lau
 sàn
 nằm
 cửa
-thang_máy
-khinh
+than_máy
+which
 công
 dính
 sàn

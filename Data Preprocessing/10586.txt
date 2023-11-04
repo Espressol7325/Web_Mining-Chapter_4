@@ -1,5 +1,5 @@
 thèm
-rong_biển
+song_biển
 order
 bịch
 hí_hửng
@@ -7,13 +7,13 @@ hơi
 thất_vọng
 chất_lượng
 k
-ngon
+non
 lắm
 tỏi
 phi
 quá_lửa
 đắng
-rong_biển
+song_biển
 dai
 nhạt
 k

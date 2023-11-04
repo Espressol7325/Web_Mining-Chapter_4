@@ -1,5 +1,5 @@
 lẩu_thái
-chua_cay
+cha_cay
 thất_vọng
 set
 lẩu
@@ -30,7 +30,7 @@ rv
 chủ
 thớt
 hy
-vong
+song
 quán
 bày_biện
 đồ_ăn
